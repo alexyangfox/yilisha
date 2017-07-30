@@ -13,6 +13,7 @@ A Chinese Version of Classical Eliza Talk Bot.
 
 - Documented Eliza （我想研究下目前的 Eliza 的实现，了解其中的原理，给出一个文档）  
 - Jieba 分词 JavaScript 版本 （因为最终我想把 Yilisha host 在 github.io 上面，所以我希望所有的逻辑都在 client 端）  
+- Adapt for Chinese.  
 - Make it more kind （我看过一些 ChatBot，有一点我很不满意，这些 ChatBot 感觉一点都不 kind. 一个人可能懂得不多，但如果他的同理心很强，和他聊天会很愉快。）
 
 ## Get Involved 
